@@ -1,6 +1,6 @@
 # C++ Day of Birthday
 
-It's been ages since I last wrote a c++ program; so this is just me getting back into the C++ game.
+It's been ages since I last wrote a c++ program; so this is just my feeble attempt to get back into the C++ game.
 
 To debug this program...
 * Get Visual Studio Code
